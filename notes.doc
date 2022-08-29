@@ -1,0 +1,3 @@
+Type Script is Super Set for JavaScript, this is a programming language which is built up on the JavaScript
+but TypeScript can't be executed by JavaScript envirments like browser, Browsers can't execute TS(Node js also cant execute TS)
+Advantages of TypeScript:-
